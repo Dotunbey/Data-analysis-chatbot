@@ -1,0 +1,10 @@
+streamlit
+SpeechRecognition
+pyttsx3
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
